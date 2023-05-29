@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" height="400px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krishnkant</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushreeta</h1>
 <h3 align="center">I'm a enthusiastic about technologics.</h3>
 
 
@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **krishnkantpachori50@gmail.com**
+- 📫 How to reach me **sushreetanaik5@gmail.com**
 
 - ⚡ Fun fact **I like to watch thriller animes.**
 
