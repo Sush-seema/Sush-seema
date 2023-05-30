@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://wallpapercave.com/wp/wp8358553.jpg" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://th.bing.com/th/id/OIP.XlONiX9zX62-vgK2Cp1lUQHaEK?pid=ImgDet&rs=1" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushreeta</h1>
 <h3 align="center">I'm a enthusiastic about technologics.</h3>
