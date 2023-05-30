@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" height="400px"/></a>
+<a href="#"><img width="100%" height="auto" src="[https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg](https://www.bing.com/images/search?view=detailV2&ccid=iVUQuBP9&id=70E3FAA0E579266943A6920ADCBF69A2F0558A25&thid=OIP.iVUQuBP9Wee6un8ggSMyIgHaEo&mediaurl=https%3a%2f%2fbesthqwallpapers.com%2fUploads%2f30-12-2020%2f149640%2fthumb2-github-blue-logo-4k-blue-brickwall-github-logo-social-networks.jpg&exph=444&expw=710&q=image+for+github+background&simid=608018802384981661&FORM=IRPRST&ck=1DDE9D93D1BEE7EE492642DC74CB380F&selectedIndex=22)" height="400px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushreeta</h1>
 <h3 align="center">I'm a enthusiastic about technologics.</h3>
